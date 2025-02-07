@@ -7,3 +7,6 @@ Learning material includes presentations of Plazi’s goals and workflow, as wel
 The courses provide certification after the module’s assignments conclusion. After the completion of the modules “Individual Extraction” and “Quality Control” (hyperlinks to the modules) the participant can obtain login and password to extract and liberate data using GGI and Plazi's platforms as new certificates. The data liberations are approved by the Plazi team, and the new certificates receive feedback concerning data quality by email until fully qualified.
 <h2>Audience</h2>
 Scientific community, citizen scientists
+
+![primeira](https://github.com/user-attachments/assets/80b00c3d-82d7-4e9a-8b56-692cd0246635)
+![segunda](https://github.com/user-attachments/assets/8b7af4e2-2d94-4337-ab44-0082ce08025a)
